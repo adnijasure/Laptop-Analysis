@@ -1,0 +1,150 @@
+﻿brand,processor_brand,processor_name,ram_gb,ram_type,ssd_gb,hdd_gb,os,os_bit,graphic_card_gb,weight,warranty_years,Touchscreen,msoffice,Price_USD,rating_stars,Number of Ratings,Number of Reviews
+Apple,M1,M1,16,DDR4,1024,0,Mac,64,0,Casual,1,No,No,2559.88,4,42,8
+Dell,Intel,Core i7,16,LPDDR4,1024,0,Windows,64,4,Casual,1,No,No,699.99,3,1438,1438
+Lenovo,Intel,Core i5,8,DDR4,512,0,Windows,64,4,Casual,1,No,Yes,755.98,4,125,11
+Apple,M1,M1,8,DDR4,256,0,Mac,64,0,Casual,1,No,No,1138.76,4,6725,629
+Apple,Intel ,Core i5,8,DDR3,256,0,Mac,64,0,Casual,1,No,No,2626,4,1706,430
+Dell,Intel,Core i5,16,DDR3,256,0,Windows,64,2,Casual,1,No,Yes,524,4,142,31
+MSI,Intel,Core i7,16,DDR5,1024,0,DOS,64,6,Casual,2,No,No,934,4,1229,218
+Lenovo,Intel ,Core i3,8,DDR4,256,0,Windows,32,0,Gaming,0,No,Yes,2140,3,137,74
+MSI,AMD,Core i3,4,DDR3,256,0,Windows,64,4,Casual,1,No,No,2969,4,452,136
+Avita,Intel,Celeron Dual ,4,DDR4,512,0,Windows,64,0,Casual,0,No,No,454,3,0,0
+Lenovo,Intel,Core i5,4,LPDDR3,256,0,Windows,32,0,ThinNlight,2,Yes,No,1964,3,154,26
+HP,AMD,Ryzen 5,4,DDR4,512,0,Windows,64,0,Casual,1,Yes,No,2251,3,1095,124
+Avita,Intel,Core i5,8,DDR4,0,512,Windows,64,0,ThinNlight,0,No,No,503,3,0,0
+Avita,Intel,Core i5,4,DDR4,256,0,Windows,64,0,Casual,0,No,No,878,3,0,0
+Avita,Intel,Core i7,8,DDR4,256,0,Windows,64,0,ThinNlight,0,No,No,602,3,17,0
+Asus,AMD,Ryzen 5,4,DDR3,0,512,Windows,32,0,Casual,1,Yes,No,760,4,501,72
+Avita,Intel,Core i7,8,DDR4,256,0,Windows,64,0,ThinNlight,0,No,No,850,3,17,3
+HP,Intel,Core i3,8,DDR4,0,1024,Windows,64,0,ThinNlight,1,Yes,No,831,4,604,95
+Lenovo,Intel,Core i7,16,LPDDR4,0,1024,Windows,64,0,Casual,3,Yes,No,1749,3,131,156
+Avita,Intel,Core i5,5,DDR4,256,0,Windows,64,0,ThinNlight,0,No,No,260,3,207,3
+HP,Intel,Core i5,16,LPDDR4,0,512,Windows,64,0,Casual,1,No,Yes,1316,3,1253,87
+Asus,Intel,Core i5,8,DDR4,0,256,Windows,32,2,ThinNlight,1,No,No,471,3,1389,32
+Asus,Intel,Core i7,16,DDR5,512,0,Windows,64,4,ThinNlight,0,No,Yes,1193,3,1037,58
+Apple,Intel ,Core i5,16,DDR3,512,0,Mac,64,0,Casual,1,No,No,1882,4,340,436
+Apple,Intel ,Core i5,8,LPDDR4X,1024,0,Mac,64,0,Casual,1,No,No,2984,4,1925,450
+Apple,Intel,Core i5,16,LPDDR4X,1024,0,Mac,64,0,Casual,1,No,No,3081,4,4626,145
+Avita,Intel,Core i5,16,DDR4,512,0,Windows,64,0,ThinNlight,0,No,No,409,3,207,3
+HP,Intel,Core i5,16,LPDDR3,0,512,Windows,64,0,Casual,1,No,No,1224,4,1291,58
+Acer,AMD,Ryzen 3,4,DDR3,512,0,Windows,32,4,Casual,0,No,No,1442,4,386,22
+Apple,Intel,Core i5,4,DDR3,1024,0,Mac,64,0,Casual,1,No,No,2447,4,466,176
+Dell,AMD,Core i3,8,DDR4,512,0,Windows,64,4,ThinNlight,1,Yes,Yes,583,3,1141,131
+Apple,M1,M1,4,DDR4,256,0,Mac,64,0,Casual,1,No,No,1763,4,4701,371
+Acer,Intel,Core i3,4,DDR4,256,0,Windows,64,6,Casual,1,No,No,1419,3,47,105
+Asus,AMD,Ryzen 7,16,LPDDR4,512,0,Windows,64,6,Casual,0,Yes,Yes,615,4,1270,19
+Asus,AMD,Ryzen 3,4,LPDDR3,0,512,Windows,32,8,Casual,0,Yes,Yes,827,4,355,16
+HP,AMD,Ryzen 7,4,LPDDR3,256,0,Windows,64,0,ThinNlight,0,Yes,No,736,4,351,103
+Apple,M1,M1,8,DDR3,256,0,Mac,64,0,Casual,1,No,No,2487,4,4336,295
+MSI,AMD,Core i5,8,DDR3,512,0,Windows,64,8,Casual,2,No,No,1565,4,1188,52
+Dell,AMD,Core i3,8,LPDDR4X,1024,0,Windows,32,6,ThinNlight,0,Yes,No,1094,3,1008,13
+Avita,Intel,Core i7,16,DDR4,512,0,Windows,64,0,ThinNlight,0,No,No,360,3,0,196
+MSI,Intel,Core i3,16,DDR4,1024,0,Windows,64,6,ThinNlight,0,No,No,2058,4,420,213
+Avita,Intel,Celeron Dual ,4,DDR4,512,0,Windows,64,0,ThinNlight,0,No,No,778,3,0,49
+Lenovo,Intel,Core i9,16,LPDDR4X,0,1024,Windows,64,4,Gaming,1,No,No,1018,4,152,199
+HP,AMD,Ryzen 5,8,LPDDR4X,512,0,Windows,64,2,Casual,0,No,No,1757,3,963,30
+HP,AMD,Ryzen 7,8,DDR4,1024,0,Windows,64,4,ThinNlight,0,Yes,Yes,2035,3,745,100
+Asus,AMD,Ryzen 9,8,LPDDR4X,0,256,Windows,64,4,Casual,1,Yes,Yes,895,4,668,74
+Apple,M1,M1,16,DDR4,512,0,Mac,64,0,Casual,1,No,No,1243,4,1619,408
+Apple,Intel,Core i5,16,DDR4,512,0,Mac,64,0,Casual,1,No,No,2969,4,3054,556
+Apple,Intel,Core i5,16,LPDDR4X,256,0,Mac,64,0,Casual,1,No,No,2919,4,1555,68
+Dell,Intel,Core i5,8,DDR3,512,0,Windows,32,6,ThinNlight,0,Yes,No,771,3,255,70
+Dell,AMD,Core i7,16,DDR3,512,0,Windows,64,4,Casual,0,No,No,1317,4,421,11
+Apple,M1,M1,8,LPDDR4X,1024,0,Mac,64,0,Casual,1,No,No,1280,5,6274,254
+Dell,Intel,Core i3,16,LPDDR4,256,0,Windows,64,2,Casual,1,No,Yes,735,4,1332,16
+Asus,Intel,Core i3,8,DDR4,0,1024,Windows,32,6,ThinNlight,1,No,No,1650,3,1122,104
+Acer,Intel,Celeron Dual ,8,DDR5,0,1024,Windows,64,0,ThinNlight,1,No,No,1887,3,101,70
+Avita,Intel,Celeron Dual ,8,DDR4,256,0,Windows,64,0,ThinNlight,0,No,No,388,3,0,0
+Apple,Intel,Core i5,4,LPDDR4X,256,0,Mac,64,0,Casual,1,No,No,2602,5,2655,22
+Apple,M1,M1,4,DDR3,512,0,Mac,64,0,Casual,1,No,No,2410,5,1937,59
+MSI,Intel,Core i3,16,DDR5,1024,0,DOS,32,0,ThinNlight,0,No,No,3309,3,162,102
+Acer,Intel,Core i5,4,LPDDR4,0,512,Windows,32,0,ThinNlight,0,Yes,Yes,1361,4,83,58
+Avita,Intel,Core i5,8,DDR4,0,512,Windows,64,0,ThinNlight,0,No,No,527,3,17,0
+MSI,Intel,Ryzen 5,4,DDR3,512,0,DOS,64,0,Casual,2,No,No,1680,3,1411,185
+Acer,AMD,Ryzen 5,16,LPDDR4X,2048,0,Windows,32,4,Casual,0,Yes,No,614,4,304,47
+Avita,Intel,Core i7,4,DDR4,256,0,Windows,64,0,Casual,0,No,No,743,3,17,0
+Dell,Intel ,Core i3,8,LPDDR4,256,0,Windows,32,4,ThinNlight,3,No,Yes,1145,3,1191,30
+Avita,Intel ,Core i5,4,DDR4,1024,0,Windows,64,0,ThinNlight,0,No,No,226,3,1120,3
+HP,Intel,Core i7,4,DDR4,256,0,Windows,64,4,ThinNlight,1,No,Yes,1287,4,125,57
+Apple,Intel ,Core i5,16,DDR3,256,0,Mac,64,0,Casual,1,No,No,1190,5,2956,611
+Dell,Intel ,Core i5,16,DDR4,1024,0,Windows,32,6,Casual,1,Yes,Yes,684,4,571,109
+Apple,M1 ,M1,8,DDR4,256,0,Mac,64,0,Casual,1,No,No,1567,4,5360,179
+MSI,Intel,Ryzen 7,8,DDR5,512,0,DOS,64,4,Casual,1,No,No,1598,4,1589,42
+MSI,AMD,Ryzen 9,8,DDR3,0,1024,Windows,32,8,ThinNlight,2,No,No,2916,3,119,88
+Lenovo,Intel,Core i5,4,DDR4,512,0,Windows,32,2,Gaming,3,No,Yes,1150,3,203,136
+MSI,AMD,Ryzen 5,4,LPDDR4,0,512,Windows,32,6,ThinNlight,0,No,No,1511,3,1285,117
+HP,AMD,Ryzen 9,8,LPDDR4X,512,0,Windows,32,4,Casual,0,Yes,Yes,2211,4,1296,71
+HP,Intel,Core i3,16,LPDDR4X,512,0,Windows,32,2,Casual,1,Yes,No,928,3,14,95
+MSI,AMD,Ryzen 3,16,LPDDR4X,256,0,DOS,32,4,ThinNlight,2,No,No,1523,3,1090,172
+Acer,AMD,Ryzen 7,16,DDR4,512,0,Windows,32,6,Casual,1,No,No,1882,4,103,58
+Avita,Intel,Core i5,16,DDR4,1024,0,Windows,64,0,ThinNlight,0,No,No,822,3,0,3
+Avita,Intel,Core i5,17,DDR4,256,0,Windows,64,0,Casual,0,No,No,714,3,17,49
+MSI,Intel,Core i3,16,LPDDR4X,1024,0,Windows,64,8,Casual,1,No,No,2360,4,1035,138
+Asus,AMD,Ryzen 5,4,DDR5,256,0,Windows,32,8,ThinNlight,1,No,Yes,274,4,1240,69
+Apple,M1,M1,16,DDR3,512,0,Mac,64,0,Casual,1,No,No,3200,4,1096,549
+Dell,AMD,Core i5,16,DDR3,256,512,Windows,64,4,Casual,3,No,No,1245,4,268,50
+HP,Intel,Core i5,16,LPDDR3,1024,0,Windows,64,0,Casual,1,Yes,No,1493,4,856,57
+Acer,AMD,Ryzen 9,8,DDR5,256,0,Windows,64,6,ThinNlight,1,No,Yes,352,4,128,103
+Lenovo,Intel,Core i7,8,DDR5,256,0,DOS,64,0,ThinNlight,2,No,Yes,305,3,167,119
+Asus,Intel,Core i7,16,LPDDR4,512,0,Windows,64,0,ThinNlight,1,Yes,No,1638,3,1452,8
+Lenovo,Intel,Celeron Dual ,16,DDR3,512,0,Windows,64,2,Casual,1,Yes,No,651,3,218,52
+Lenovo,Intel,Celeron Dual ,4,DDR4,0,512,DOS,32,0,Casual,0,No,Yes,333,4,91,21
+HP,Intel,Core i3,8,DDR4,256,0,Windows,64,0,ThinNlight,0,No,Yes,581,3,524,101
+Apple,Intel,Core i5,4,DDR4,512,0,Mac,64,0,Casual,1,No,No,2615,4,3988,1
+MSI,AMD,Core i5,16,LPDDR4,0,256,Windows,32,0,Casual,0,No,No,1771,4,430,205
+HP,AMD,Ryzen 7,4,LPDDR4X,256,0,Windows,32,0,ThinNlight,0,No,Yes,1589,4,759,56
+Apple,Intel,Core i5,4,DDR3,512,0,Mac,64,0,Casual,1,No,No,1941,4,3579,110
+Acer,Intel,Core i7,8,DDR3,256,0,Windows,64,6,ThinNlight,0,No,No,417,4,235,50
+Avita,Intel,Core i7,4,DDR4,512,0,Windows,64,0,Casual,0,No,No,541,3,17,0
+Lenovo,Intel,Core i7,4,DDR5,0,512,DOS,32,4,ThinNlight,3,Yes,Yes,2467,3,103,195
+Dell,Intel,Core i3,16,LPDDR4,512,0,Windows,64,4,ThinNlight,3,No,Yes,1285,3,1215,64
+Acer,Intel,Core i9,32,LPDDR4X,512,0,Windows,32,4,Casual,0,Yes,No,1526,4,27,8
+Apple,M1,M1,16,LPDDR4X,1024,0,Mac,64,0,Casual,1,No,No,1997,4,5171,71
+Avita,Intel,Celeron Dual ,8,DDR4,256,0,Windows,64,0,ThinNlight,0,No,No,809,3,1120,0
+MSI,Intel,Core i5,4,DDR4,512,0,Windows,64,6,Casual,0,No,No,758,3,292,151
+Avita,Intel,Core i7,8,DDR4,512,0,Windows,64,0,ThinNlight,0,No,No,692,3,207,0
+Asus,Intel,Core i9,16,LPDDR3,512,0,Windows,32,0,Casual,0,No,Yes,795,3,1562,179
+Asus,AMD,Ryzen 9,4,LPDDR4X,256,0,Windows,64,2,ThinNlight,0,Yes,Yes,866,3,1317,140
+Apple,M1,M1,16,LPDDR4X,1024,0,Mac,64,0,Casual,1,No,No,1044,4,1568,605
+HP,AMD,Ryzen 3,8,LPDDR3,0,1024,Windows,64,0,Casual,0,No,No,1498,3,42,14
+Lenovo,Intel,Core i9,8,LPDDR4,1024,0,Windows,64,0,Gaming,0,No,No,234,3,104,36
+Dell,AMD,Ryzen 5,8,LPDDR4X,1025,0,Windows,64,6,ThinNlight,1,Yes,No,1405,4,700,38
+MSI,AMD,Ryzen 3,4,LPDDR4X,1024,0,Windows,32,8,ThinNlight,2,No,No,2216,4,569,161
+Lenovo,Intel,Core i5,16,LPDDR3,512,0,Windows,64,2,Gaming,1,No,Yes,1905,4,45,69
+Lenovo,Intel,Core i3,16,LPDDR4X,256,0,Windows,32,0,Casual,1,Yes,Yes,1199,3,108,76
+MSI,AMD,Ryzen 9,8,DDR3,512,0,Windows,32,4,ThinNlight,2,No,No,2633,3,1031,189
+HP,Intel,Core i7,8,LPDDR3,0,512,Windows,64,2,ThinNlight,1,Yes,No,743,3,243,126
+HP,AMD,Ryzen 3,16,DDR4,256,0,Windows,32,4,ThinNlight,0,No,Yes,1297,3,1146,26
+HP,AMD,Ryzen 5,16,LPDDR4X,512,0,Windows,64,4,Casual,0,Yes,Yes,1955,4,123,37
+HP,Intel,Celeron Dual ,4,LPDDR4,512,0,Windows,64,2,Casual,1,No,No,937,4,1136,22
+MSI,Intel,Ryzen 5,16,DDR5,256,0,Windows,64,4,Casual,1,No,No,580,4,702,18
+Avita,Intel,Core i7,16,DDR4,512,0,Windows,64,0,ThinNlight,0,No,No,528,3,207,3
+MSI,Intel,Core i5,16,DDR4,256,0,DOS,64,4,Casual,2,No,No,530,3,962,99
+HP,AMD,Ryzen 5,8,LPDDR3,1024,0,Windows,64,0,ThinNlight,1,No,No,2617,3,882,94
+MSI,Intel,Core i7,4,LPDDR4,1024,0,DOS,32,8,ThinNlight,2,No,No,2025,3,383,33
+Avita,Intel,Core i5,4,DDR4,256,0,Windows,64,0,ThinNlight,0,No,No,505,3,0,3
+MSI,AMD,Core i5,8,LPDDR4,0,1024,Windows,64,6,ThinNlight,0,No,No,1010,3,551,85
+Dell,AMD,Core i3,16,LPDDR4X,256,0,Windows,32,6,Casual,1,Yes,No,651,3,895,87
+Asus,Intel ,Celeron Dual ,8,DDR5,256,0,Windows,32,8,Casual,1,No,No,955,3,143,127
+Asus,Intel,Core i7,4,DDR3,0,1024,Windows,64,6,ThinNlight,0,Yes,Yes,251,3,747,140
+HP,Intel,Celeron Dual ,4,DDR4,0,1024,Windows,32,0,ThinNlight,1,Yes,No,2368,3,819,29
+Asus,AMD,Ryzen 3,16,DDR5,1024,0,Windows,64,4,Casual,1,Yes,No,692,3,1405,138
+Asus,Intel,Celeron Dual ,16,DDR3,1024,0,Windows,32,4,ThinNlight,1,No,Yes,1047,4,1160,130
+Asus,Intel,Core i9,8,DDR4,256,0,Windows,32,8,ThinNlight,1,No,Yes,692,4,676,142
+Acer,AMD,Ryzen 3,4,LPDDR4X,0,1024,Windows,32,0,Casual,1,No,Yes,808,3,225,114
+HP,AMD,Ryzen 9,16,DDR4,0,512,Windows,32,0,ThinNlight,0,Yes,Yes,1280,4,465,62
+Dell,Intel,Ryzen 3,8,LPDDR4,256,0,Windows,32,2,Casual,1,No,Yes,556,4,1090,189
+HP,Intel,Core i5,4,LPDDR3,1024,0,Windows,32,0,Casual,0,Yes,Yes,1437,3,73,23
+Acer,Intel,Core i5,8,DDR5,256,0,Windows,64,0,Casual,1,No,Yes,351,4,180,88
+Avita,Intel,Core i7,8,DDR4,256,0,Windows,64,0,Casual,0,No,No,273,3,0,196
+HP,Intel,Core i9,4,LPDDR3,256,0,Windows,64,0,Casual,0,No,Yes,1747,3,585,51
+Avita,Intel,Celeron Dual ,4,DDR4,512,0,Windows,64,0,ThinNlight,0,No,No,519,3,0,0
+Acer,Intel,Core i7,4,DDR4,0,512,Windows,64,0,ThinNlight,0,No,Yes,1454,4,100,83
+Avita,Intel,Core i7,8,DDR4,1024,0,Windows,64,0,ThinNlight,0,No,No,835,3,0,0
+HP,Intel,Core i7,8,LPDDR4,512,0,Windows,64,0,Casual,1,No,No,1559,4,190,65
+HP,AMD,Ryzen 5,16,DDR4,256,0,Windows,64,2,Casual,0,No,No,2778,3,401,80
+Dell,Intel,Core i3,16,DDR3,1024,512,Windows,32,2,ThinNlight,0,Yes,Yes,1471,3,1325,80
+Apple,Intel,Core i5,8,DDR4,1024,0,Mac,64,0,Casual,1,No,No,2113,4,2811,340
+Apple,M1,M1,8,DDR4,256,0,Mac,64,0,Casual,1,No,No,3498,5,5897,7
+Acer,AMD,Ryzen 9,16,DDR3,1024,0,Windows,32,4,Casual,0,Yes,No,1786,4,222,77
+MSI,AMD,Core i7,8,LPDDR4X,0,256,DOS,32,0,ThinNlight,1,No,No,2841,4,775,78
